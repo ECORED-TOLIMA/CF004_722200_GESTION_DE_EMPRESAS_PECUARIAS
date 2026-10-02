@@ -307,7 +307,7 @@ export default {
       referencia:
         'Cárdenas Mora, Sandra Milena and Guarnizo Cuellar, Fabio, "Costos por órdenes de producción y por procesos" (2015). Administración y economía. 8. ',
       link:
-        'https://ciencia.lasalle.edu.co/edunisalle_administracion-economia/8',
+        'https://ciencia.lasalle.edu.co/items/b0933236-7829-4ebf-9c1f-d77eedaf53da',
     },
     {
       referencia:
@@ -333,8 +333,7 @@ export default {
     {
       referencia:
         'Invima. (2020). Guía Técnica para la elaboración de programas sanitarios. Instituto Nacional de Vigilancia de Medicamentos y Alimentos – Invima. ',
-      link:
-        'https://www.invima.gov.co/documents/20143/426805/GU%C3%8DA+T%C3%89CNICA+PARA+LA+ELABORACI%C3%93N+DE+PROGRAMAS+SANITARIOS.pdf',
+      link: '',
     },
     {
       referencia:
@@ -362,7 +361,7 @@ export default {
       referencia:
         'Ministerio de Salud de Colombia. (1997). Conductas básicas en bioseguridad: manejo integral. Protocolo básico para el equipo de salud. Ministerio de Salud de Colombia. ',
       link:
-        'https://www.minsalud.gov.co/salud/Documents/observatorio_vih/documentos/prevencion/promocion_prevencion/riesgo_biol%C3%B3gico-bioseguridad/b_bioseguridad/BIOSEGURIDAD.pdf',
+        'https://web.archive.org/web/20130118093741/http://www.minsalud.gov.co/salud/Documents/observatorio_vih/documentos/prevencion/promocion_prevencion/riesgo_biol%C3%B3gico-bioseguridad/b_bioseguridad/BIOSEGURIDAD.pdf',
     },
     {
       referencia:
@@ -384,8 +383,7 @@ export default {
     {
       referencia:
         'Rincón Narváez, J. (2017). Presupuestos bajo normas internacionales de información financiera y taxonomía XBRL. ',
-      link:
-        'https://es.scribd.com/read/436221926/Presupuestos-Bajo-normas-internacionales-de-informacion-financiera-y-taxonomia-XBRL',
+      link: '',
     },
   ],
   creditos: [
